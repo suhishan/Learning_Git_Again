@@ -2,7 +2,8 @@
 title: "Learning MarkDown"
 author: "suhishan"
 date: "2024-11-01"
-output: html_document
+output: 
+  output: github_document
 ---
 
 ```{r setup, include=FALSE}
